@@ -10,6 +10,6 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ["nuxt-icon", "@pinia/nuxt"],
+  modules: ["nuxt-icon", "@pinia/nuxt",'@pinia-plugin-persistedstate/nuxt'],
   compatibilityDate: "2024-09-26",
 });
