@@ -6,6 +6,7 @@
     <p class="text-slate-500 mt-4 text-lg md:text-xl">
       TechBlog está aquí para inspirarte y equiparte en tu viaje tecnológico. 
       Únete a nuestra comunidad de entusiastas de la tecnología y transforma tus ideas en realidad, un código a la vez.
+      En este espacio podras encontrar concejos para mejorar en la programacion.
     </p>
     <div class="flex mt-5">
       <LandingLink href="#" styleName="inverted">Comencemos</LandingLink>
