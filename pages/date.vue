@@ -4,11 +4,11 @@
 </template>
 <script setup>
   // Instanciar el store
-  const dateStore = useDateStore()
+  const dateStore = useDateStore ()
   
 
   await useAsyncData('dates', async () => {
-    await dateStore.fetchDates()    
+    await dateStore.fetchDates ()    
   })
   
 </script>
