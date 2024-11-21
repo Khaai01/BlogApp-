@@ -80,12 +80,12 @@ const team = [
               <Image
                 {...item.avatar}
                 format="avif"
-                alt="Team"
+                alt="Team "
                 class="w-full h-full object-cover rounded transition  group-hover:-translate-y-1 group-hover:shadow-xl"
               />
             </div>
 
-            <div class="mt-4 text-center">
+            <div class="mt-4 text">
               <h2 class="text-lg text-gray-800"> {item.name}</h2>
               <h3 class="text-sm text-slate-500"> {item.title}</h3>
             </div>
