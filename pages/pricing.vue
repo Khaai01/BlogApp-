@@ -25,7 +25,7 @@ const pricing = [
       monthly: "$15,000",
     },
     popular: true,
-    features: [
+    features:[
       "Todo lo del Plan Personal.",
       "Acceso a contenido exclusivo y tutoriales avanzados.",
       "Descargas de recursos y plantillas premium.",
@@ -49,7 +49,7 @@ const pricing = [
       "Oportunidades de colaboración y networking con otros profesionales.",
       "Soporte con expertos 24/7",
     ],
-    button: {
+    button:{
       text: "Iniciar",
       link: "/",
     },
