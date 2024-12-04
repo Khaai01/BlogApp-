@@ -14,7 +14,7 @@
 </template>
 <script setup>
     // Instanciar el store
-  const productStore = useProductStore()
+  const productStore = UseProductStore()
   
   // Obtener los productos
   const { getProducts } = productStore;
