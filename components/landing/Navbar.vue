@@ -71,7 +71,7 @@ const open = ref(false);
           <LandingLink href="#" styleName="muted" block size="md"
             >Log in</LandingLink
           >
-          <LandingLink href="#" size="md" block>Sign up</LandingLink>
+          <LandingLink href="/pages/signup.vue" size="md" block>Sign up</LandingLink>
         </div>
       </nav>
       <div>
